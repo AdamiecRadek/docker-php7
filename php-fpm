@@ -1,4 +1,4 @@
-#! /bin/sh
+sb#! /bin/sh
 ### BEGIN INIT INFO
 # Provides:          php-7.0.0-fpm
 # Required-Start:    $all
